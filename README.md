@@ -1,4 +1,4 @@
-# Ethan Chat Frontend
+# Remix Blog
 
 - [Remix Docs](https://remix.run/docs)
 
